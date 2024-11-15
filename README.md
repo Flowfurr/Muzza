@@ -1,10 +1,10 @@
-# Muzza
+# Flow
 
 <img src="https://raw.githubusercontent.com/Maloy-Android/Muzza/dev/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" height="72">
 
 A Material 3 YouTube Music client for Android
 
-[![Latest release](https://img.shields.io/github/v/release/Maloy-Android/Muzza?include_prereleases)](https://github.com/Maloy-Android/Muzza/releases)
+[![Latest release](https://img.shields.io/github/v/release/Maloy-Android/Flow?include_prereleases)](https://github.com/Maloy-Android/Muzza/releases)
 [![License](https://img.shields.io/github/license/Maloy-Android/Muzza)](https://www.gnu.org/licenses/gpl-3.0)
 [![Downloads](https://img.shields.io/github/downloads/Maloy-Android/Muzza/total)](https://github.com/Maloy-Android/Muzza/releases)
 
